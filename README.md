@@ -9,17 +9,10 @@ $$
 minutes = 60
 
 seconds = minutes * 60
-seconds
+seconds # → 3600
 ```
 
-
-
-
-    3600
-
-
-
-# Seconds to Minutes
+# Seconds → Minutes
 
 $$
 x \ \text{sec} * \frac{1 \text{min}}{60 \text{sec}} \rightarrow \frac{x}{60} \ \text{min}
@@ -30,12 +23,5 @@ $$
 seconds = 3600
 
 minutes = seconds // 60
-minutes
+minutes # → 60
 ```
-
-
-
-
-    60
-
-
