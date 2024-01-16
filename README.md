@@ -1,5 +1,7 @@
 # python-time
 
+Convert from seconds to minutes and minutes to seconds
+
 ## Files
 
 - [main.py](https://github.com/ebanner/python-time/blob/main/main.py)
