@@ -4,7 +4,7 @@ Convert from seconds to minutes and minutes to seconds
 
 ## Files
 
-- [main.py](https://github.com/ebanner/python-time/blob/main/main.py)
+- [time.py](https://github.com/ebanner/python-time/blob/main/main.py)
 - [Time.ipynb](https://github.com/ebanner/python-time/blob/main/Time.ipynb)
 
 ## Demo
