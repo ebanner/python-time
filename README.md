@@ -1,4 +1,13 @@
-# Minutes → Seconds
+# python-time
+
+## Files
+
+- [main.py](https://github.com/ebanner/python-time/blob/main/main.py)
+- [Time.ipynb](https://github.com/ebanner/python-time/blob/main/Time.ipynb)
+
+## Demo
+
+### Minutes → Seconds
 
 $$
 x \ \text{min} * \frac{60 \text{sec}}{1 \text{min}} \rightarrow 60x \ \text{sec}
@@ -12,7 +21,7 @@ seconds = minutes * 60
 seconds # → 3600
 ```
 
-# Seconds → Minutes
+### Seconds → Minutes
 
 $$
 x \ \text{sec} * \frac{1 \text{min}}{60 \text{sec}} \rightarrow \frac{x}{60} \ \text{min}
